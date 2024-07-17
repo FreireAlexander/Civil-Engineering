@@ -1,7 +1,5 @@
-chores(): Delete 
+chores(): Updating .gitignore 
 
 	- Deleting old files
-	- Deleting old files x 2
-	-
 
 Author: Zero_Asus
