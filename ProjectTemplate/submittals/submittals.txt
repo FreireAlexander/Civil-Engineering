@@ -1,0 +1,7 @@
+Submittals: outputs from the project
+	
+	- Sheets
+	- Reports
+	- Shop Drawings
+	- Exhibits
+	- Presentations 

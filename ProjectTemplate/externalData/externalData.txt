@@ -1,0 +1,8 @@
+External Data: Consultant data and information from customers and third party stakeholder
+
+**
+	It is really important to transform this data into the own standards
+**
+
+	- Gis Information
+	- Survey Information

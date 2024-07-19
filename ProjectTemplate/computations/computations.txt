@@ -1,0 +1,6 @@
+Computations: 
+	-- Compute information
+	- Estimate quantitys
+	- factibility
+	- Aprovement
+	- Check
