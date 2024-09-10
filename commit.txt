@@ -1,5 +1,6 @@
-chores(): Updating .gitignore 
+chores(): Organizing
 
 	- Deleting old files
+	- Adding some new files and readme
 
-Author: Zero_Asus
+Author: Zero
