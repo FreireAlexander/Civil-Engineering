@@ -1,6 +1,3 @@
-chores(): Organizing
-
-	- Deleting old files
-	- Adding some new files and readme
+saving(): Sezioni Tipo
 
 Author: Zero
