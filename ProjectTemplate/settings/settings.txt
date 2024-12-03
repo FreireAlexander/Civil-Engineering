@@ -1,3 +1,0 @@
-Settings: General settings for files
-
-	- Plot Settings

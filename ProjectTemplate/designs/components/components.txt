@@ -1,7 +1,0 @@
-Components: components, elements, blocks of the projects
-
-	- Signs
-	- Doors
-	- Windows
-	- Lines
-	- Etc

@@ -1,24 +1,9 @@
 # :desktop_computer: Personal Projects 
 
-This is a folder for developing and showing personal projects and ideas using AutoCAD, Civil 3D and more.
+Esta carpeta contiene mis proyectos personales de ingeniería civil.
 
-## :file_folder: CAD Files
+## :file_folder: Archivos
 
-In this repository there are a lot of projects and examples for CAD designs.
-You can find the following projects:
+Actualmente en este repositorio podrás encontrar los siguientes proyectos y plantillas:
 
-- Blocks
-- House
-- DogOS logo 
-- House
-- Project Template
-
-### :construction: Blocks 
-
-**For now it is updating all the time and adding more a more blocks and files that could be useful in differents projects.**
-
-Blocks is a important folder because it could be find a lot blocks in a wide variety, funcionality and measures.
-
-In the Block folder :file_folder: it could be find:
-- [:file_folder: Sezioni Tipo ](https://github.com/FreireAlexander/CADFiles/tree/master/Blocks/sezioni_tipo_strade): Typical transversal road according to Italy normative
-- [:notebook: Windows](https://github.com/FreireAlexander/CADFiles/tree/master/Blocks/windows.dwg): File with Windows blocks
+- [:file_folder: Project Template ](https://github.com/FreireAlexander/CADFiles/tree/master/) : estructura de archivos y carpetas para proyectos

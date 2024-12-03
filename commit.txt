@@ -1,3 +1,5 @@
-saving(): Sezioni Tipo
+release(): Update project template folder
+
+    - update folder tree and goals for the projects folder
 
 Author: Zero
