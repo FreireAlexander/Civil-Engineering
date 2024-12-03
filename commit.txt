@@ -1,5 +1,6 @@
-release(): Update project template folder
+WIP(): title blocks for arch full bleed D
 
-    - update folder tree and goals for the projects folder
+    - Add template for arch full bleed D
+    - Update sheetSet
 
 Author: Zero
