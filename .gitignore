@@ -2,3 +2,5 @@
 *.dwl2
 *.bak
 .vscode
+.venv
+venv

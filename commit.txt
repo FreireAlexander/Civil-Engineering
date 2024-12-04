@@ -1,6 +1,6 @@
-WIP(): title blocks for arch full bleed D
+WIP(): Small Project and QR_Code to DWG
 
-    - Add template for arch full bleed D
-    - Update sheetSet
+    - Add template for ISO A0 and ISO A4
+    - Update sheetSet for metrics
 
 Author: Zero
